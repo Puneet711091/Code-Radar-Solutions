@@ -8,13 +8,12 @@ int main() {
     char hobby[100];
 
     // Taking input
-    printf("Enter your name: ");
+   
     scanf("%s", name);
 
-    printf("Enter your age: ");
+ 
     scanf("%d", &age);
 
-    printf("Enter your favorite hobby: ");
     scanf("%s", hobby);
 
     // Printing output
