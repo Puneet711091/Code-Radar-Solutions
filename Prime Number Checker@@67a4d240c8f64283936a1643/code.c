@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 #include <stdio.h>
-#include <math.h>
+
 
 int is_prime(int num) {
     if (num <= 1) return 0;
