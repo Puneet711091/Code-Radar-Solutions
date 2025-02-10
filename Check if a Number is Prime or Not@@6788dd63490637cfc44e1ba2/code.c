@@ -13,6 +13,6 @@ int main() {
     int number;
     printf(" ");
     scanf("%d", &number);
-    printf("%d i %s.\n", number, is_prime(number) ? "" : "not ");
+    printf("%d  %s\n", number, is_prime(number) ? "" : "not ");
     return 0;
 }
