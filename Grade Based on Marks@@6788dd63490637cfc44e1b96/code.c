@@ -13,12 +13,12 @@ int main(){
     else if (marks>=60&&marks<70:){
          printf("D");
     }
-    else if (marks>=50&&marks<60:){
-        printf("E");
-    }
-    else{
+    else if (marks>=0&&marks<60:){
         printf("F");
     }
+    /*else{
+        printf("F");
+    }*/
 
 
     
