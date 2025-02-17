@@ -1,4 +1,4 @@
-// Your code here...
+// Your code here...//
 int main(){
     int a = 0;
     scanf("%d",&a);
