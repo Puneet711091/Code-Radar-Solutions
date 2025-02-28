@@ -1,4 +1,4 @@
-#include<studio.h>
+
 int isPrime(int num){
     int isPrime=1;
     if(num<=1){
