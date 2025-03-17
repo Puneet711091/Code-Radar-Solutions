@@ -15,7 +15,7 @@ int main() {
     char str[100];
 
     
-    printf("%s",str);
+   
     scanf("%s", str);
 
     reverseString(str);
